@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Thu, 21 Jul 2022 16:00:00 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/vite/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/vite-Module-Federation</guid>
+      <title>Vite 也可以模块联邦</title>
+      <link>https://github.com/balac2015/blog/vite-Module-Federation</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7d4b5a0d48f642e982cd5c481ce92d8d~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;之前写过一篇文章，《将 React 应用迁移至 Vite》介绍了 Vite 的优势，并且和 webpack 做对比，但 webpack5 有个很重要的功能，就是模块联邦，那么什么是模块联邦？&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 21 Jul 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>Vite</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/cra-to-vite</guid>
+      <title>将 React 应用迁移至 Vite</title>
+      <link>https://github.com/balac2015/blog/cra-to-vite</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/32e60817bbb543069ceddb0c99062d39~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Vite 充分利用了浏览器的加载机制和缓存机制等，大大提示了研发效率，vite 虽然快，但不是所有的项目react 项目都可以迁移成功&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>Vite</category>
+    </item>
+  
+    </channel>
+  </rss>

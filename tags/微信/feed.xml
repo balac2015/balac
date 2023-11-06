@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Sun, 15 May 2022 16:00:00 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/微信/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/the-new-wechat-editor</guid>
+      <title>微信排版工具新选择</title>
+      <link>https://github.com/balac2015/blog/the-new-wechat-editor</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/714602a53c704bcabcc2703ca532791b~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;我写了一个微信排版编辑器，使用 MDX，可自定义组件、样式、生成二维码、代码 diff 高亮，可导出 markdown 和 PDF。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 15 May 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category><category>微信</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/16-places-to-find-illustrations</guid>
+      <title>使用免费插画资源网站设计公众号首图</title>
+      <link>https://github.com/balac2015/blog/16-places-to-find-illustrations</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7e62d47750f444c4a6bc73cb8d8c2427~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;我们前端工程师也可以做设计了，日常我需要为博客首图设计和公众号设计首图，下面分享下我的设计方法和技巧。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Feb 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>微信</category>
+    </item>
+  
+    </channel>
+  </rss>

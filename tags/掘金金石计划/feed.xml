@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Fri, 21 Apr 2023 10:03:16 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/掘金金石计划/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/使用 Web Speech API 和 ChatGPT API 开发一个智能语音机器人</guid>
+      <title>使用 Web Speech API 和 ChatGPT API 开发一个智能语音机器人</title>
+      <link>https://github.com/balac2015/blog/使用 Web Speech API 和 ChatGPT API 开发一个智能语音机器人</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b77c80cf2d1a4549bdf5235cf873c19c~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;随着 AI 的不断发展，我们前端工程师也可以开发出一个智能语音机器人，下面是我开发的一个简单示例，大家可以访问这个视频地址查看效果。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Apr 2023 10:03:16 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/2023 web 设计趋势</guid>
+      <title>2023 web 设计趋势</title>
+      <link>https://github.com/balac2015/blog/2023 web 设计趋势</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0882329af71749ac8163ff58e666495e~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;在过去的一年里，我们在网页设计领域看到了很多令人兴奋的发展。而在这篇文章中，我们来预测下 2023 年的设计趋势。本文附有所有例子的链接。准备好了吗？让我们来看看!&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Apr 2023 10:02:50 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>掘金·金石计划</category><category>视觉设计</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/油猴脚本去水印实现原理</guid>
+      <title>油猴脚本去水印实现原理</title>
+      <link>https://github.com/balac2015/blog/油猴脚本去水印实现原理</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/73debd08259d4483b2f489046bffb36d~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;上周微信公众号推出了一种新的形式，类似小红书这样子，群里有小伙伴调侃，是否是小红书的产品经理跳槽到微信了，那作为一个公众号运营者，我也想利用这一点。那么如何快速设计出好看的小红书封面，便成了我的目标。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Mar 2023 12:42:18 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/ChatGPT 以及相关开源项目体验</guid>
+      <title>ChatGPT 以及相关开源项目体验</title>
+      <link>https://github.com/balac2015/blog/ChatGPT 以及相关开源项目体验</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/361b95e87f774692a2c0cf5924a28d6d~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本月初，ChatGPT 以惊人的速度问世，在技术圈中引起了广泛讨论。在 GitHub 上近期还诞生了多个 ChatGPT 相关的开源项目，数量之多令人瞠目结舌。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 12 Dec 2022 14:55:57 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>前端</category><category>OpenAI</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/创建 React 应用的 7 种方式，你用过几种？</guid>
+      <title>创建 React 应用的 7 种方式，你用过几种？</title>
+      <link>https://github.com/balac2015/blog/创建 React 应用的 7 种方式，你用过几种？</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3f2429d85e694e2c83e047daf1b6f3c0~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本文例举创建 react 应用的常见 7 种方式，首先，我们第一个是想到的是 react 官方团队提供的脚手架工具 Create React App(cra) 项目是零配置。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Dec 2022 15:56:54 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/如何避免 React hooks 闭包陷阱？</guid>
+      <title>如何避免 React hooks 闭包陷阱？</title>
+      <link>https://github.com/balac2015/blog/如何避免 React hooks 闭包陷阱？</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dc9a2de7e4874d37ba6010fac897d212~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;有时候我们使用了useMemo useCallback 来优化性能，这些函数与外围的 state 形成闭包，导致缓存函数中获取到的 state 不是最新的值，这就是闭包陷阱。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 27 Nov 2022 23:57:37 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/我在工作中使用 git 的几个技巧</guid>
+      <title>我在工作中使用 git 的几个技巧</title>
+      <link>https://github.com/balac2015/blog/我在工作中使用 git 的几个技巧</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6fce639f5d1b4e0794b26f21326ed3f3~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Git 是每个程序员的必备技能，良好的 Git 提交习惯，不但可以让代码阅读更清晰，还可以提高我们的我们的工作效率，接下来我将分享我在工作中关于 Git 的使用经验，或许对你有帮助。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Nov 2022 04:32:22 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>Git</category><category>掘金·金石计划</category>
+    </item>
+  
+    </channel>
+  </rss>

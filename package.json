@@ -1,0 +1,15 @@
+{
+  "name": "balac2015.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "https://balac.netlify.app",
+  "repository": "https://github.com/balac2015/balac.git",
+  "author": "win8 <tianping888@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "preview": "vite preview --outDir ./"
+  },
+  "dependencies": {
+    "vite": "^4.5.0"
+  }
+}

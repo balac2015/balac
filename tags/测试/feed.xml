@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Tue, 18 Jan 2022 16:00:00 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/测试/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/tdd-testing-react-router</guid>
+      <title>如何测试 React 路由 ？</title>
+      <link>https://github.com/balac2015/blog/tdd-testing-react-router</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5c8605a0b17b427a93d2cae9770a4479~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本文承接上文 如何测试 React 异步组件？，这次我将继续使用 @testing-library/react 来测试我们的 React 应用，并简要简要说明如何测试路由系统。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Jan 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>测试</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/tdd-testing-react-async-component</guid>
+      <title>[TDD] 如何测试 React 异步组件？</title>
+      <link>https://github.com/balac2015/blog/tdd-testing-react-async-component</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/48b1226b3b9444a599ba2c186fbbafd2~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;前言 本文承接上文 如何测试驱动开发 React 组件？，这次我将继续使用 @testing-library/react 来测试我们的 React 应用，并简要简要说明如何测试异步组件。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Dec 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>测试</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/tdd-testing-react-component</guid>
+      <title>如何测试驱动开发 React 组件？</title>
+      <link>https://github.com/balac2015/blog/tdd-testing-react-component</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/aa3943f055434bbca9d461401edba4ca~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;什么是TDD（Test-driven development），就是测试驱动开发，是敏捷开发中的一项核心实践和技和技术。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 29 Nov 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>测试</category>
+    </item>
+  
+    </channel>
+  </rss>

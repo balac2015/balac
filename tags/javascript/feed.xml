@@ -1,0 +1,244 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Thu, 04 May 2023 04:59:18 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/javascript/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/Vercel 推出数据库存储服务，助力全栈开发</guid>
+      <title>Vercel 推出数据库存储服务，助力全栈开发</title>
+      <link>https://github.com/balac2015/blog/Vercel 推出数据库存储服务，助力全栈开发</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/809e62b4d3a84b50b36d4ab6b6c3414a~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Vercel 是一个流行的 React.js、Next.js 等前端应用部署平台，我们可以一键将 Github 上的应用部署上线，但它缺少一个重要部分：数据库。不过现在已经有了四种新数据库可供选择。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 04 May 2023 04:59:18 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>数据库</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/使用 Web Speech API 和 ChatGPT API 开发一个智能语音机器人</guid>
+      <title>使用 Web Speech API 和 ChatGPT API 开发一个智能语音机器人</title>
+      <link>https://github.com/balac2015/blog/使用 Web Speech API 和 ChatGPT API 开发一个智能语音机器人</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b77c80cf2d1a4549bdf5235cf873c19c~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;随着 AI 的不断发展，我们前端工程师也可以开发出一个智能语音机器人，下面是我开发的一个简单示例，大家可以访问这个视频地址查看效果。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Apr 2023 10:03:16 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/基于 ChatGPT API 的划词翻译浏览器脚本实现</guid>
+      <title>基于 ChatGPT API 的划词翻译浏览器脚本实现</title>
+      <link>https://github.com/balac2015/blog/基于 ChatGPT API 的划词翻译浏览器脚本实现</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8c93edb619cb4edf949b9d1bf91662a0~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;最近 GitHub 上有个基于 ChatGPT API 的浏览器脚本，openai-translator， 短时间内 star 冲到了 9.7k， 功能上除了支持翻译外，还支持润色和总结功能。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 28 Mar 2023 10:05:49 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/三分钟 ChatGPT 接入钉钉机器人</guid>
+      <title>三分钟 ChatGPT 接入钉钉机器人</title>
+      <link>https://github.com/balac2015/blog/三分钟 ChatGPT 接入钉钉机器人</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0dcb0b737c9c4c5f948c9fea03d97089~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;ChatGPT 大家应该都已经用了一段时间了，功能非常强大，作为开发人员，我用它写文档、写日报、润色 OKR，知识搜索等等，它给我带来了极大的帮助，但我在使用过程中最大的痛点就是网络。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Mar 2023 10:27:23 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>ChatGPT</category><category>JavaScript</category><category>Node.js</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/油猴脚本去水印实现原理</guid>
+      <title>油猴脚本去水印实现原理</title>
+      <link>https://github.com/balac2015/blog/油猴脚本去水印实现原理</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/73debd08259d4483b2f489046bffb36d~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;上周微信公众号推出了一种新的形式，类似小红书这样子，群里有小伙伴调侃，是否是小红书的产品经理跳槽到微信了，那作为一个公众号运营者，我也想利用这一点。那么如何快速设计出好看的小红书封面，便成了我的目标。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Mar 2023 12:42:18 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>掘金·金石计划</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/推荐6款油猴脚本，不看错亿！</guid>
+      <title>推荐6款油猴脚本，不看错亿！</title>
+      <link>https://github.com/balac2015/blog/推荐6款油猴脚本，不看错亿！</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5475ca75439148eda3dac6e9d5ce9fc6~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;推荐 6 款贼好用的油猴脚本，其中有 4 个是笔者开发的，看完了文章，要是对这几款脚本感兴趣的话，赶紧去试试看，且用且珍惜！&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Mar 2023 22:59:04 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/码上掘金不仅可以写 PPT，还可以录视频</guid>
+      <title>码上掘金不仅可以写 PPT，还可以录视频</title>
+      <link>https://github.com/balac2015/blog/码上掘金不仅可以写 PPT，还可以录视频</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fda8c8dd9e8844ce956bb6838aa2e2a1~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本文基于我之前写的一篇文章《Markdown 写 PPT 是如何实现的？》，我们要在此之上实现视频录制的功能。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 08 Sep 2022 16:05:45 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/使用油猴脚本净化 CSDN</guid>
+      <title>使用油猴脚本净化 CSDN</title>
+      <link>https://github.com/balac2015/blog/使用油猴脚本净化 CSDN</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/12bd1cfd78fb49648c1a3de21ff7c2a2~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;CSDN 的百度搜索权重很高，比如我们搜索一个关键词， 输入`react 性能优化`，第一个就是 CSDN 的链接，打开 CSDN 的链接，里面有很多广告，我们可以通过油猴脚本来净化页面。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sat, 03 Sep 2022 06:33:01 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/油猴脚本开发教程</guid>
+      <title>油猴脚本开发教程</title>
+      <link>https://github.com/balac2015/blog/油猴脚本开发教程</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1388cc913ee64f9c8bab6b1af5773c6b~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本文简单介绍了油猴脚本开发步骤以及实现，结合 webpack 让脚本实现工程化，并且配合 github action，让脚本实现自动化构建和部署。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Sep 2022 09:50:24 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>前端</category><category>JavaScript</category><category>GitHub</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/用云函数开发掘金钉钉机器人</guid>
+      <title>用云函数开发掘金钉钉机器人</title>
+      <link>https://github.com/balac2015/blog/用云函数开发掘金钉钉机器人</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d5a07be47c1e42c0b1388f324207fec9~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;自从我在稀土掘金社区技术更文以来，每天非常关注文章点赞评论消息，而我常使用的是聊天软件是钉钉，所以我在想，是否可以利用云函数对接掘金，实现一个钉钉机器人，把我的掘金消息自动推送给我。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Aug 2022 06:49:02 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>Serverless</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/how-to-maintain-iconfont</guid>
+      <title>Iconfont 还是不能上传，如何维护你的 Icon？</title>
+      <link>https://github.com/balac2015/blog/how-to-maintain-iconfont</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f176aaf6430a4bfa93de8782b7de03f7~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;大多情况下，我们不必上传自己的图标，只需要在 iconfont.cn 便捷的搜索，就可以将图标加入到自己的项目图标库中，但最近工作中却遇到了比较严重的问题。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 21 Jul 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/iconfontr</guid>
+      <title>【油猴脚本】在 Iconfont 上直接复制 React component 代码</title>
+      <link>https://github.com/balac2015/blog/iconfontr</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9a6b0cf5711a4ca0b9a9bb16f0689cb1~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;所以我写了一个油猴脚本，可以在 iconfont.cn 上直接复制 React component 代码，本文讲述改脚本的实现原理。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 21 Jul 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/uniapp-user-sharing</guid>
+      <title>Uniapp 实现全民分销功能</title>
+      <link>https://github.com/balac2015/blog/uniapp-user-sharing</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9e0a790a69d442da8f04b3874084d0fc~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;前段时间在掘金 app 多了一个推广中心，分享课程链接，若有其他用户从你分享的链接购买，你就可以获得佣金，本篇介绍下全民分销功能实现原理。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category><category>CSS</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/web-typing</guid>
+      <title>打字机效果的实现与应用</title>
+      <link>https://github.com/balac2015/blog/web-typing</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac3da8d3b8d847aaaa4b2d525487e55a~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;在 web 应用中，模拟编辑器的输入效果，往往能够吸引人们的眼球，让用户的注意力聚焦在输入的内容上，其实使用的是 web 动画模拟打字机效果，本文将和大家探讨打字机效果的实现方式以及应用。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>前端</category><category>javaScript</category><category>React.js</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/position-fixed-problem</guid>
+      <title>前端妹子问我 position fixed  失效问题该如何解决？</title>
+      <link>https://github.com/balac2015/blog/position-fixed-problem</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81d913acfca842c8af67299bba4d7a7a~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;这两天公司一位妹子问我，“我这边调试的时候本地显示没问题，到手机端就有问题，该怎么办呢？” 测试环境没问题到线上就有问题了？对此我也很纳闷。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 24 May 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category><category>CSS</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/how-html-to-markdown</guid>
+      <title>HTML 转 Markdown 如此简单</title>
+      <link>https://github.com/balac2015/blog/how-html-to-markdown</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a693e62730704370a3768213ec3f97ec~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本文推荐 HTML 转为 markdown 的工具和实现方式，并找到了一个快捷技巧，收藏等于学会。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Feb 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>React.js</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/valentines-day</guid>
+      <title>情人节，让百度首页帮你告白</title>
+      <link>https://github.com/balac2015/blog/valentines-day</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a2123cbc9984de898a771213d7b0f62~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;转眼又是到了2月14日，今天不单单是情人节，我做了一个JS相册，并嵌入大屏了百度首页中，偷偷给对象装个油猴脚本，百度都会帮你告白。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 13 Feb 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category><category>前端</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/react-hooks-dark-mode</guid>
+      <title>使用 React hooks 监听系统的暗黑模式</title>
+      <link>https://github.com/balac2015/blog/react-hooks-dark-mode</link>
+      <description>&lt;p&gt;&lt;small&gt;现在大部分网站也加入了暗黑模式，包括 Tailwindcss、antd design 等都支持了暗黑模式，因此我们的网站也要适配系统皮肤。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 09 Feb 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/tampermonkey-copy-helper</guid>
+      <title>[油猴脚本]文章拷贝助手，文章一键拷贝到微信公众平台</title>
+      <link>https://github.com/balac2015/blog/tampermonkey-copy-helper</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f64568e1fa049fa948442def158b138~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;为什么要写这个脚本 最近开了个前端公众号，需要推送一些优质的文章，但由于时间的关系，原创内容太少，常规的做法是转载一些优秀的文章到自己的公众号。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 08 Feb 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/tauri-vs-electron</guid>
+      <title>初步尝试 tauri，并且与 electron.js 对比 </title>
+      <link>https://github.com/balac2015/blog/tauri-vs-electron</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/636408c5873b4999ad2d4b03665e452f~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Tauri 是一个为所有主流桌面平台构建小型、快速二进制文件的框架。开发人员可以集成任何编译成 HTML、 JS 和 CSS 的前端框架来构建他们的用户界面。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 31 Jan 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>前端</category><category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/Implement-a-vscode-translation-extension</guid>
+      <title>一起来写 VS Code 插件：实现一个翻译插件</title>
+      <link>https://github.com/balac2015/blog/Implement-a-vscode-translation-extension</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/179abac4c4a84e5783147d8195c9ff9b~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;本文将通过实现一个翻译插件实例的方式来熟悉 VS Code 插件&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Nov 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>Visual Studio Code</category><category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/use-PostCSS-plugin-to-make-your-site-support-dark-mode</guid>
+      <title>使用 PostCSS 插件让你的网站支持暗黑模式</title>
+      <link>https://github.com/balac2015/blog/use-PostCSS-plugin-to-make-your-site-support-dark-mode</link>
+      <description>&lt;img src=&quot;https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9de6b5fc1f804a88b6c6bb9025db04a0~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;最近公司需要给多个 webapp（大概20+）加上多皮肤的功能，原先默认是白色皮肤，我们先从暗黑模式入手，从而逐渐实现多皮肤功能。本篇记录下实现思路。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 15 Oct 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>JavaScript</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/React-SSR-framework-next.js</guid>
+      <title>React 必学SSR框架——next.js</title>
+      <link>https://github.com/balac2015/blog/React-SSR-framework-next.js</link>
+      <description>&lt;p&gt;&lt;small&gt;​ 首先我们就回顾一下，我们到底是怎么告别了使用 php/jsp 做服务器端渲染，进入前后端分离的客户端渲染时代，又为什么重新回到了服务端渲染。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Sat, 26 Sep 2020 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>React.js</category><category>JavaScript</category>
+    </item>
+  
+    </channel>
+  </rss>

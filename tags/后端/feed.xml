@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Fri, 26 Nov 2021 16:00:00 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/后端/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/how-to-deploy-a-dynamic-website-for-free</guid>
+      <title>如何白嫖一个动态网站</title>
+      <link>https://github.com/balac2015/blog/how-to-deploy-a-dynamic-website-for-free</link>
+      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3631817d12ad45ebbf545cf2f2fb9b5e~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;我们知道，想要搭建一个网站往往需要一下几个步骤： 域名注册 服务器购买、 数据库购买或部署、网站设计、 网站开发、网站备案 网站上线、本文将介绍如何用最小的成本和最短时间开发部署一个动态网站。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Nov 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>前端</category><category>后端</category>
+    </item>
+  
+    </channel>
+  </rss>

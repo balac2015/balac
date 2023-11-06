@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Tue, 27 Dec 2022 11:40:16 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/年终总结/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/2022 年终总结，知识沉淀这一年</guid>
+      <title>2022 年终总结，知识沉淀这一年</title>
+      <link>https://github.com/balac2015/blog/2022 年终总结，知识沉淀这一年</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/44f5f3bee7dc4adcaed2f2cd04c985ed~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Hello ，大家好，我是小马，一名小厂前端工程师，普通的不能再普通的小前端，本来不想写年终总结了，因为一年下来，也没啥变化。&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Dec 2022 11:40:16 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>年终总结</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/mid-2022-summary</guid>
+      <title>2022 在微笑中成长</title>
+      <link>https://github.com/balac2015/blog/mid-2022-summary</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/443360781d8d43af94b1ce26f73f966d~tplv-k3u1fbpfcp-zoom-crop-mark:3024:3024:3024:1702.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;「时光不负，创作不停，本文正在参加2022 年中总结征文大赛」 哈喽，大家好， 我是小马，2022 年不知不觉已经过半了，看到朋友圈关于年中总结的文章，一时间不知道该如何写起&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Thu, 21 Jul 2022 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>年终总结</category>
+    </item>
+  
+    <item>
+      <guid>https://github.com/balac2015/blog/2021-year-end-summary</guid>
+      <title>9 年小厂老前端的年终总结</title>
+      <link>https://github.com/balac2015/blog/2021-year-end-summary</link>
+      <description>&lt;img src=&quot;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/feb96152be0846198319c97bda6872b3~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;时光飞逝，岁月如梭，转眼来到 2021 年底，这一年少了些理性，多了点感性，少了些自由，多了一份责任，这一年视乎没做什么事情，但又过得非常充实，最欣慰的是回家有个人等待着我的拥抱，最快乐的是...&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 10 Dec 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>年终总结</category>
+    </item>
+  
+    </channel>
+  </rss>

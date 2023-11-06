@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Coding 工坊 | 随风</title>
+      <link>https://github.com/balac2015/blog</link>
+      <description>分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。</description>
+      <language>en-us</language>
+      <managingEditor>tianping888@163.com (随风)</managingEditor>
+      <webMaster>tianping888@163.com (随风)</webMaster>
+      <lastBuildDate>Mon, 31 May 2021 16:00:00 GMT</lastBuildDate>
+      <atom:link href="https://github.com/balac2015/tags/orm/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>https://github.com/balac2015/blog/prisma-the-complete-orm</guid>
+      <title>【译】适用于Node.js和TypeScript的完整ORM —— Prisma</title>
+      <link>https://github.com/balac2015/blog/prisma-the-complete-orm</link>
+      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1785d30401ab4d5ab6181bfae59ad848~tplv-k3u1fbpfcp-watermark.image&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;Prisma是 Node.js 和 TypeScript 的下一代 ORM。经过两年多的开发，我们很高兴分享所有 Prisma 工具已准备好投入生产！&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 31 May 2021 16:00:00 GMT</pubDate>
+      <author>tianping888@163.com (随风)</author>
+      <category>ORM</category>
+    </item>
+  
+    </channel>
+  </rss>
