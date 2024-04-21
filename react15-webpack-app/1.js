@@ -1,0 +1,2 @@
+(window["webpackJsonp_react15-webpack-app"]=window["webpackJsonp_react15-webpack-app"]||[]).push([[1],{815:function(n,e,p){(e=p(184)(!1)).push([n.i,"/* 动态加载的样式 */\n\n.react15-lib {\n  color: #818ff7;\n}\n",""]),n.exports=e},816:function(n,e,p){var a=p(183),o=p(815);"string"==typeof(o=o.__esModule?o.default:o)&&(o=[[n.i,o,""]]);var t={insert:"head",singleton:!1};a(o,t);n.exports=o.locals||{}}}]);
+//# sourceMappingURL=1.js.map
